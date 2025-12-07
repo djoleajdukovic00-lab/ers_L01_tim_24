@@ -1,0 +1,17 @@
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\bin\Debug\net8.0\Domain.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\bin\Debug\net8.0\Services.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\bin\Debug\net8.0\Domain.pdb
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\bin\Debug\net8.0\Services.pdb
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Presentation\obj\Debug\net8.0\ref\Presentation.dll

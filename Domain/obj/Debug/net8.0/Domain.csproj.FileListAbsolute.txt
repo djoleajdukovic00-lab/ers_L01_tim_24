@@ -1,0 +1,11 @@
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\dolea\OneDrive\Desktop\ERS_Projekat_Template\ERS_Projekat_Template\Domain\obj\Debug\net8.0\ref\Domain.dll
