@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E51170D-D28E-4742-ACB0-47AFB6DFD6D4}|Database\\Database.csproj|c:\\users\\dolea\\onedrive\\dokumenti\\github\\ers_l01_tim_24\\database\\repozitorijumi\\korisnicirepozitorijum.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E51170D-D28E-4742-ACB0-47AFB6DFD6D4}|Database\\Database.csproj|solutionrelative:database\\repozitorijumi\\korisnicirepozitorijum.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBBB7F4C-7067-46F6-A8AB-CCA02BEEE98C}|Services\\Services.csproj|c:\\users\\dolea\\onedrive\\dokumenti\\github\\ers_l01_tim_24\\services\\autenftikacioniservisi\\autentifikacioniservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBBB7F4C-7067-46F6-A8AB-CCA02BEEE98C}|Services\\Services.csproj|solutionrelative:services\\autenftikacioniservisi\\autentifikacioniservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{6F79F78D-9359-47AD-82D3-A580FA087617}|Domain\\Domain.csproj|solutionrelative:domain\\bazapodataka\\ibazapodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E51170D-D28E-4742-ACB0-47AFB6DFD6D4}|Database\\Database.csproj|c:\\users\\dolea\\onedrive\\dokumenti\\github\\ers_l01_tim_24\\database\\repozitorijumi\\korisnicirepozitorijum.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E51170D-D28E-4742-ACB0-47AFB6DFD6D4}|Database\\Database.csproj|solutionrelative:database\\repozitorijumi\\korisnicirepozitorijum.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F51B9F8F-711A-4FC3-B55D-C43F30F475C8}|Application\\Application.csproj|c:\\users\\dolea\\onedrive\\dokumenti\\github\\ers_l01_tim_24\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51B9F8F-711A-4FC3-B55D-C43F30F475C8}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AutentifikacioniServis.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Services\\AutenftikacioniServisi\\AutentifikacioniServis.cs",
               "RelativeDocumentMoniker": "Services\\AutenftikacioniServisi\\AutentifikacioniServis.cs",
@@ -75,20 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OpcijeMeni.cs",
-              "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Presentation\\Meni\\OpcijeMeni.cs",
-              "RelativeDocumentMoniker": "Presentation\\Meni\\OpcijeMeni.cs",
-              "ToolTip": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Presentation\\Meni\\OpcijeMeni.cs",
-              "RelativeToolTip": "Presentation\\Meni\\OpcijeMeni.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:12:12.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AutentifikacioniMeni.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Presentation\\Authentifikacija\\AutentifikacioniMeni.cs",
               "RelativeDocumentMoniker": "Presentation\\Authentifikacija\\AutentifikacioniMeni.cs",
@@ -96,12 +83,11 @@
               "RelativeToolTip": "Presentation\\Authentifikacija\\AutentifikacioniMeni.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:12:04.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:12:04.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IAutentifikacijaServis.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Domain\\Servisi\\IAutentifikacijaServis.cs",
               "RelativeDocumentMoniker": "Domain\\Servisi\\IAutentifikacijaServis.cs",
@@ -109,12 +95,11 @@
               "RelativeToolTip": "Domain\\Servisi\\IAutentifikacijaServis.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:11:56.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:11:56.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IKorisniciRepozitorijum.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Domain\\Repozitorijumi\\IKorisniciRepozitorijum.cs",
               "RelativeDocumentMoniker": "Domain\\Repozitorijumi\\IKorisniciRepozitorijum.cs",
@@ -122,12 +107,11 @@
               "RelativeToolTip": "Domain\\Repozitorijumi\\IKorisniciRepozitorijum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:11:51.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:11:51.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Korisnik.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Domain\\Modeli\\Korisnik.cs",
               "RelativeDocumentMoniker": "Domain\\Modeli\\Korisnik.cs",
@@ -135,12 +119,11 @@
               "RelativeToolTip": "Domain\\Modeli\\Korisnik.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:11:46.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:11:46.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TipKorisnika.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Domain\\Enumeracije\\TipKorisnika.cs",
               "RelativeDocumentMoniker": "Domain\\Enumeracije\\TipKorisnika.cs",
@@ -148,12 +131,11 @@
               "RelativeToolTip": "Domain\\Enumeracije\\TipKorisnika.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:11:37.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:11:37.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TipEvidencije.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Domain\\Enumeracije\\TipEvidencije.cs",
               "RelativeDocumentMoniker": "Domain\\Enumeracije\\TipEvidencije.cs",
@@ -161,12 +143,11 @@
               "RelativeToolTip": "Domain\\Enumeracije\\TipEvidencije.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:11:35.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:11:35.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TabeleBazaPodataka.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Domain\\BazaPodataka\\TabeleBazaPodataka.cs",
               "RelativeDocumentMoniker": "Domain\\BazaPodataka\\TabeleBazaPodataka.cs",
@@ -174,12 +155,36 @@
               "RelativeToolTip": "Domain\\BazaPodataka\\TabeleBazaPodataka.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:11:26.194Z",
+              "WhenOpened": "2025-12-07T13:11:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KorisniciRepozitorijum.cs.cs",
+              "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
+              "RelativeDocumentMoniker": "Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
+              "ToolTip": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
+              "RelativeToolTip": "Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:10:54.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "OpcijeMeni.cs",
+              "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Presentation\\Meni\\OpcijeMeni.cs",
+              "RelativeDocumentMoniker": "Presentation\\Meni\\OpcijeMeni.cs",
+              "ToolTip": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Presentation\\Meni\\OpcijeMeni.cs",
+              "RelativeToolTip": "Presentation\\Meni\\OpcijeMeni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:12:12.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IBazaPodataka.cs",
               "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Domain\\BazaPodataka\\IBazaPodataka.cs",
               "RelativeDocumentMoniker": "Domain\\BazaPodataka\\IBazaPodataka.cs",
@@ -187,21 +192,7 @@
               "RelativeToolTip": "Domain\\BazaPodataka\\IBazaPodataka.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:11:22.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "KorisniciRepozitorijum.cs.cs",
-              "DocumentMoniker": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
-              "RelativeDocumentMoniker": "Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
-              "ToolTip": "C:\\Users\\dolea\\OneDrive\\Dokumenti\\GitHub\\ers_L01_tim_24\\Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
-              "RelativeToolTip": "Database\\Repozitorijumi\\KorisniciRepozitorijum.cs.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:10:54.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:11:22.603Z"
             },
             {
               "$type": "Document",
@@ -213,8 +204,7 @@
               "RelativeToolTip": "Application\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T13:10:26.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T13:10:26.988Z"
             }
           ]
         }
