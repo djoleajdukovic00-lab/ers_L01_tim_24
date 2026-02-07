@@ -4,6 +4,8 @@
     {
         public TabeleBazaPodataka Tabele { get; set; }
 
+        bool Ucitaj();
+
         public bool SacuvajPromene();
     }
 }

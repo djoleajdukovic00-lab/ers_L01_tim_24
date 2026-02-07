@@ -1,0 +1,74 @@
+{
+  "Korisnici": [
+    {
+      "Id": "24c3855c-e009-4574-a9aa-ae6308bffc1a",
+      "KorisnickoIme": "menadzer",
+      "Lozinka": "123",
+      "ImePrezime": "Petar Petrovic",
+      "Uloga": 0
+    },
+    {
+      "Id": "937cb6a4-aaab-4848-88e5-3ee6660477f2",
+      "KorisnickoIme": "prodavac",
+      "Lozinka": "123",
+      "ImePrezime": "Marko Markovic",
+      "Uloga": 1
+    }
+  ],
+  "Ljubimci": [
+    {
+      "Id": "67270926-2198-47e5-b261-7883c46760d3",
+      "LatinskiNaziv": "Canis lupus familiaris",
+      "Ime": "Rex",
+      "Tip": 0,
+      "ProdajnaCena": 15000,
+      "Prodat": true
+    },
+    {
+      "Id": "6f6a93d0-80b0-47cf-9d97-78c97c5da823",
+      "LatinskiNaziv": "Felis catus",
+      "Ime": "Mica",
+      "Tip": 0,
+      "ProdajnaCena": 12000,
+      "Prodat": true
+    },
+    {
+      "Id": "4f3bbd57-9d0e-4a15-a984-4ccb385cf8b8",
+      "LatinskiNaziv": "wd",
+      "Ime": "www",
+      "Tip": 0,
+      "ProdajnaCena": 111,
+      "Prodat": false
+    },
+    {
+      "Id": "a2f067b3-d21d-4fa4-80e7-1333f094a202",
+      "LatinskiNaziv": "qeq",
+      "Ime": "www",
+      "Tip": 0,
+      "ProdajnaCena": 111,
+      "Prodat": false
+    },
+    {
+      "Id": "3c61c794-80fd-43fa-8e83-3336bffe3909",
+      "LatinskiNaziv": "bub",
+      "Ime": "sic",
+      "Tip": 0,
+      "ProdajnaCena": 10000,
+      "Prodat": false
+    }
+  ],
+  "FiskalniRacuni": [
+    {
+      "Id": "837444aa-7712-4b4d-a4fa-33fa2004f48d",
+      "ImeProdavca": "Marko Markovic",
+      "DatumVreme": "2026-02-05T21:18:44.7786346+01:00",
+      "UkupanIznos": 16500.00
+    },
+    {
+      "Id": "cfd3319c-9877-4b2e-a9c9-728ddb02df9f",
+      "ImeProdavca": "Marko Markovic",
+      "DatumVreme": "2026-02-06T15:50:12.0513232+01:00",
+      "UkupanIznos": 10200.00
+    }
+  ]
+}

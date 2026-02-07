@@ -1,10 +1,11 @@
-﻿using Domain.Enumeracije;
+﻿using System;
+using Domain.Enumeracije;
 
 namespace Domain.Modeli
 {
     public class Korisnik
     {
-        public long Id { get; set; } = 0;
+        public Guid Id { get; set; }
         public string KorisnickoIme { get; set; } = string.Empty;
         public string Lozinka { get; set; } = string.Empty;
         public string ImePrezime { get; set; } = string.Empty;
@@ -14,10 +15,12 @@ namespace Domain.Modeli
 
         public Korisnik(string korisnickoIme, string lozinka, string imePrezime, TipKorisnika tipKorisnika)
         {
+            Id = Guid.NewGuid();
             KorisnickoIme = korisnickoIme;
             Lozinka = lozinka;
             ImePrezime = imePrezime;
             Uloga = tipKorisnika;
         }
+
     }
 }

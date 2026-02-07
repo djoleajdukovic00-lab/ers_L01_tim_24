@@ -4,6 +4,9 @@ namespace Domain.Servisi
 {
     public interface ILoggerServis
     {
-        public bool EvidentirajDogadjaj(TipEvidencije tip, string poruka);
+        void Log(string poruka);
+        void LogGreska(string poruka);
+        void LogUpozorenje(string poruka);
     }
 }
+

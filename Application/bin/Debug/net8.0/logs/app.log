@@ -1,0 +1,43 @@
+2026-02-05 22:24:01 [INFO] Aplikacija startovana
+2026-02-06 00:29:03 [INFO] Aplikacija startovana
+2026-02-06 00:30:44 [INFO] Pokusaj prijave: prodavac
+2026-02-06 00:30:44 [INFO] Prijava uspesna: prodavac
+2026-02-06 00:30:44 [WARNING] Prodaja servis nije dostupan (verovatno van radnog vremena 08-22).
+2026-02-06 00:53:20 [INFO] Aplikacija startovana
+2026-02-06 00:53:26 [INFO] Pokusaj prijave: prodavac
+2026-02-06 00:53:26 [INFO] Prijava uspesna: prodavac
+2026-02-06 00:53:26 [WARNING] Prodaja servis nije dostupan (verovatno van radnog vremena 08-22).
+2026-02-06 00:53:33 [WARNING] Pokusaj prodaje dok je _prodajaServis == null (van radnog vremena).
+2026-02-06 00:53:52 [INFO] Korisnik izasao iz menija.
+2026-02-06 15:36:15 [INFO] Aplikacija startovana
+2026-02-06 15:37:02 [INFO] Pokusaj prijave: menadzer
+2026-02-06 15:37:02 [INFO] Prijava uspesna: menadzer
+2026-02-06 15:49:50 [INFO] Aplikacija startovana
+2026-02-06 15:50:11 [INFO] Pokusaj prijave: menadzer
+2026-02-06 15:50:11 [INFO] Prijava uspesna: menadzer
+2026-02-06 15:50:12 [INFO] Pokusaj prijave: prodavac
+2026-02-06 15:50:12 [INFO] Prijava uspesna: prodavac
+2026-02-06 15:50:12 [INFO] Pokusaj prijave: menadzer
+2026-02-06 15:50:12 [WARNING] Prijava neuspesna: pogresna lozinka za korisnika 'menadzer'.
+2026-02-06 15:50:12 [INFO] [DNEVNA] Pocetak prodaje: ljubimacId=6f6a93d0-80b0-47cf-9d97-78c97c5da823, prodavac=Marko Markovic
+2026-02-06 15:50:12 [INFO] [DNEVNA] Prodaja uspesna: racunId=cfd3319c-9877-4b2e-a9c9-728ddb02df9f, ukupno=10200.00
+2026-02-06 16:02:50 [INFO] Aplikacija startovana
+2026-02-06 16:03:02 [INFO] Pokusaj prijave: menadzer
+2026-02-06 16:03:02 [INFO] Prijava uspesna: menadzer
+2026-02-06 16:03:13 [INFO] Dodat ljubimac: www (wd)
+2026-02-06 16:03:31 [INFO] Dodat ljubimac: www (qeq)
+2026-02-06 16:12:30 [INFO] Aplikacija startovana
+2026-02-06 16:12:39 [INFO] Pokusaj prijave: menadzer
+2026-02-06 16:12:39 [INFO] Prijava uspesna: menadzer
+2026-02-06 16:16:26 [INFO] Aplikacija startovana
+2026-02-06 16:16:39 [WARNING] Prijava neuspesna: prazno korisnicko ime ili lozinka.
+2026-02-06 16:16:42 [WARNING] Prijava neuspesna: prazno korisnicko ime ili lozinka.
+2026-02-06 16:16:49 [INFO] Pokusaj prijave: menadzer
+2026-02-06 16:16:49 [INFO] Prijava uspesna: menadzer
+2026-02-06 16:18:21 [INFO] Aplikacija startovana
+2026-02-06 16:18:26 [INFO] Pokusaj prijave: menadzer
+2026-02-06 16:18:26 [INFO] Prijava uspesna: menadzer
+2026-02-06 16:18:46 [INFO] Dodat ljubimac: sic (bub)
+2026-02-06 16:19:02 [INFO] Aplikacija startovana
+2026-02-06 16:19:05 [INFO] Pokusaj prijave: prodavac
+2026-02-06 16:19:05 [INFO] Prijava uspesna: prodavac
